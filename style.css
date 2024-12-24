@@ -1,0 +1,34 @@
+.text {
+color: blue;background-color:
+ aqua;border: solid red;
+ border-radius: 30px 30px 30px 30px;
+  text-align:center;
+}
+.text1 {
+    background-color: yellow;
+    border-radius: 10px 10px 10px 10px ;
+    text-align: center;
+}
+.maktab {
+    background-color: yellow;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.m {
+    background-color:blue;
+     color: aliceblue;
+     width:1000px;
+}
+.n {
+    background-color: yellow;
+    border-radius: 5px;
+    text-align: center;
+}
+table th td{
+    border: 1px solid black;
+    background-color: blue;
+}
+.block{
+    border: 1px solid red;
+}
